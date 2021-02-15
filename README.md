@@ -5,9 +5,10 @@
 
 ## Description 
 A node.js application that uses user input from inquirer to populate a README.md file for user repository. <br />
-Below is the gif showing the functionality of the application:<br />
+<br/>
+Below is the video demo showing the functionality of the application:<br />
   
-![Gary README Generator](./video/video.mp4)
+![README Generator](./video/video.mp4)
 
 ## Table of Contents
 
